@@ -1,2 +1,3 @@
 # BOOKING-TICKET-APP
-a simple booking app with multi threading
+A simple booking app with multi threading functionality
+
